@@ -47,7 +47,7 @@ header.dnt .dnt-heading {
       {
         font-weight: bolder;
         color: black;
-        background-image: url("image/work.jpg");
+        background-image: url("./image/work.jpg");
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -82,7 +82,7 @@ header.dnt .dnt-heading {
     font-family: 'Trebuchet MS', sans-serif;
     height: 180vh;
     color: white;
-    background-image: url("image/c.jpeg");
+    background-image: url("./image/c.jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -223,7 +223,7 @@ header.dnt .dnt-heading {
       .donate
       {
           font-family: 'Trebuchet MS', sans-serif;
-          background-image: url("image/donate.jpg");
+          background-image: url("./image/donate.jpg");
           background-position: center;
           background-size: cover;
           background-repeat: no-repeat;
@@ -282,7 +282,7 @@ header.dnt .dnt-heading {
       .about-1
       {
           font-family: 'Trebuchet MS', sans-serif;
-          background-image: url("image/about.jpg");
+          background-image: url("./image/about.jpg");
           background-position: center;
           background-size: cover;
           background-repeat: no-repeat;
